@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<!DOCTYPE cesDoc PUBLIC "-//CES//DTD XML cesAlign//EN"
+                        "dtd/xcesAlign.dtd" [
+]>
+<cesAlign>
+  <linkList>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kcontrol/protocols.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kcontrol/protocols.docbook.xml.gz">
+      <link certainty="57" id="kde_en_GB-1.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-330" id="kde_en_GB-1.0.2" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="419" id="kde_en_GB-1.0.3" xtargets="s3.1 ; s3.1" />
+      <link certainty="278" id="kde_en_GB-1.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="81" id="kde_en_GB-1.0.5" xtargets="s5.1 ; s5.1" />
+      <link certainty="283" id="kde_en_GB-1.0.6" xtargets="s6.1 ; s6.1" />
+      <link certainty="384" id="kde_en_GB-1.0.7" xtargets="s6.2 ; s7.1" />
+      <link certainty="133" id="kde_en_GB-1.0.8" xtargets="s7.1 ; s8.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/khelpcenter/contact.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/khelpcenter/contact.docbook.xml.gz">
+      <link certainty="-941" id="kde_en_GB-2.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="60" id="kde_en_GB-2.0.2" xtargets="s3.1 ; s2.1" />
+      <link certainty="707" id="kde_en_GB-2.0.3" xtargets="s3.2 s3.3 ; s3.1" />
+      <link certainty="0" id="kde_en_GB-2.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="-191" id="kde_en_GB-2.0.5" xtargets="s5.1 s6.1 ; s5.1" />
+      <link certainty="4" id="kde_en_GB-2.0.6" xtargets="s7.1 ; s6.1" />
+      <link certainty="-228" id="kde_en_GB-2.0.7" xtargets="s8.1 s9.1 ; s7.1" />
+      <link certainty="13" id="kde_en_GB-2.0.8" xtargets="s10.1 ; s8.1" />
+      <link certainty="-230" id="kde_en_GB-2.0.9" xtargets="s11.1 s12.1 ; s9.1" />
+      <link certainty="0" id="kde_en_GB-2.0.10" xtargets="s13.1 ; s10.1" />
+      <link certainty="8" id="kde_en_GB-2.0.11" xtargets="s14.1 ; s11.1" />
+      <link certainty="32" id="kde_en_GB-2.0.12" xtargets="s15.1 ; s12.1" />
+      <link certainty="21" id="kde_en_GB-2.0.13" xtargets="s16.1 ; s13.1" />
+      <link certainty="18" id="kde_en_GB-2.0.14" xtargets="s17.1 ; s14.1" />
+      <link certainty="-30" id="kde_en_GB-2.0.15" xtargets="s18.1 s19.1 ; s15.1" />
+      <link certainty="4" id="kde_en_GB-2.0.16" xtargets="s20.1 ; s16.1" />
+      <link certainty="-337" id="kde_en_GB-2.0.17" xtargets="s21.1 s22.1 ; s17.1" />
+      <link certainty="639" id="kde_en_GB-2.0.18" xtargets="s23.1 ; s18.1" />
+      <link certainty="-213" id="kde_en_GB-2.0.19" xtargets="s24.1 s24.2 ; s19.1" />
+      <link certainty="27" id="kde_en_GB-2.0.20" xtargets="s24.3 ; s20.1" />
+      <link certainty="52" id="kde_en_GB-2.0.21" xtargets="s24.4 ; s21.1" />
+      <link certainty="21" id="kde_en_GB-2.0.22" xtargets="s25.1 ; s22.1" />
+      <link certainty="1841" id="kde_en_GB-2.0.23" xtargets="s25.2 s25.3 ; s23.1 s26.1" />
+      <link certainty="-1" id="kde_en_GB-2.0.24" xtargets="s25.4 s26.1 ; s27.1" />
+      <link certainty="1024" id="kde_en_GB-2.0.25" xtargets="s26.2 s27.1 ; s28.1" />
+      <link certainty="386" id="kde_en_GB-2.0.26" xtargets="s28.1 ; s29.1" />
+      <link certainty="35" id="kde_en_GB-2.0.27" xtargets="s28.2 ; s30.1" />
+      <link certainty="19" id="kde_en_GB-2.0.28" xtargets="s29.1 ; s31.1" />
+      <link certainty="-427" id="kde_en_GB-2.0.29" xtargets="s30.1 s31.1 ; s32.1" />
+      <link certainty="447" id="kde_en_GB-2.0.30" xtargets="s32.1 ; s33.1" />
+      <link certainty="155" id="kde_en_GB-2.0.31" xtargets="s33.1 s34.1 ; s34.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/khelpcenter/faq/about.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/khelpcenter/faq/about.docbook.xml.gz">
+      <link certainty="82" id="kde_en_GB-3.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="222" id="kde_en_GB-3.2.1" xtargets="s2.1 ; s2.1" />
+      <link certainty="1438" id="kde_en_GB-3.3.1" xtargets="s3.1 ; " />
+      <link certainty="1058" id="kde_en_GB-3.3.2" xtargets="s3.2 s3.3 ; s3.1" />
+      <link certainty="-282" id="kde_en_GB-3.3.3" xtargets="s3.4 ; " />
+      <link certainty="-1849" id="kde_en_GB-3.4.1" xtargets="s4.1 s4.2 ; s4.1" />
+      <link certainty="287" id="kde_en_GB-3.5.1" xtargets="s5.1 ; s5.1" />
+      <link certainty="322" id="kde_en_GB-3.5.2" xtargets="s5.2 ; s5.2" />
+      <link certainty="-1088" id="kde_en_GB-3.6.1" xtargets="s6.1 s6.2 ; s6.1" />
+      <link certainty="144" id="kde_en_GB-3.7.1" xtargets="s7.1 ; s7.1" />
+      <link certainty="430" id="kde_en_GB-3.8.1" xtargets="s8.1 ; s8.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/khelpcenter/faq/getkde.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/khelpcenter/faq/getkde.docbook.xml.gz">
+      <link certainty="-672" id="kde_en_GB-4.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="3" id="kde_en_GB-4.0.2" xtargets="s3.1 ; s2.1" />
+      <link certainty="-180" id="kde_en_GB-4.0.3" xtargets="s4.1 s5.1 ; s4.1" />
+      <link certainty="-740" id="kde_en_GB-4.0.4" xtargets="s5.2 s6.1 ; s5.1" />
+      <link certainty="-1002" id="kde_en_GB-4.0.5" xtargets="s7.1 s8.1 ; s6.1" />
+      <link certainty="17" id="kde_en_GB-4.0.6" xtargets="s10.1 ; s7.1" />
+      <link certainty="60" id="kde_en_GB-4.0.7" xtargets="s11.1 ; s8.1" />
+      <link certainty="273" id="kde_en_GB-4.0.8" xtargets="s11.2 ; s10.1" />
+      <link certainty="-122" id="kde_en_GB-4.0.9" xtargets="s12.1 s13.1 ; s12.1" />
+      <link certainty="-433" id="kde_en_GB-4.0.10" xtargets="s14.1 s14.2 ; s14.1" />
+      <link certainty="-573" id="kde_en_GB-4.0.11" xtargets="s15.1 s16.1 ; s15.1" />
+      <link certainty="1155" id="kde_en_GB-4.0.12" xtargets="s16.2 s16.3 ; s16.1" />
+      <link certainty="-139" id="kde_en_GB-4.0.13" xtargets="s16.4 s16.5 ; s16.2" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/khelpcenter/faq/nonkdeapps.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/khelpcenter/faq/nonkdeapps.docbook.xml.gz">
+      <link certainty="157" id="kde_en_GB-5.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="474" id="kde_en_GB-5.2.1" xtargets="s2.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/khelpcenter/faq/tips.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/khelpcenter/faq/tips.docbook.xml.gz">
+      <link certainty="-660" id="kde_en_GB-6.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="27" id="kde_en_GB-6.0.2" xtargets="s3.1 ; s2.1" />
+      <link certainty="-616" id="kde_en_GB-6.0.3" xtargets="s4.1 s5.1 ; s5.1" />
+      <link certainty="-276" id="kde_en_GB-6.0.4" xtargets="s7.1 s8.1 ; s7.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/bzip2.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/bzip2.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-7.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="223" id="kde_en_GB-7.0.2" xtargets="s2.1 ; s2.1" />
+      <link certainty="530" id="kde_en_GB-7.0.3" xtargets="s3.1 s3.2 ; s3.1" />
+      <link certainty="936" id="kde_en_GB-7.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="1175" id="kde_en_GB-7.0.5" xtargets="s5.1 s6.1 ; s5.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/bzip.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/bzip.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-8.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-455" id="kde_en_GB-8.2.1" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="-988" id="kde_en_GB-8.3.1" xtargets="s3.1 s3.2 ; s3.1" />
+      <link certainty="858" id="kde_en_GB-8.4.1" xtargets="s4.1 ; s4.1" />
+      <link certainty="601" id="kde_en_GB-8.5.1" xtargets="s5.1 ; s5.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/file.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/file.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-9.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-214" id="kde_en_GB-9.0.2" xtargets="s2.1 s3.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/finger.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/finger.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-10.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="905" id="kde_en_GB-10.0.2" xtargets="s2.1 ; s2.1 s3.1" />
+      <link certainty="26" id="kde_en_GB-10.0.3" xtargets="s3.1 ; s4.1" />
+      <link certainty="663" id="kde_en_GB-10.0.4" xtargets="s4.1 s5.1 ; s5.1" />
+      <link certainty="1952" id="kde_en_GB-10.0.5" xtargets="s6.1 s8.1 ; s6.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/ftp.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/ftp.docbook.xml.gz">
+      <link certainty="789" id="kde_en_GB-11.0.1" xtargets="s1.1 ; " />
+      <link certainty="-469" id="kde_en_GB-11.0.2" xtargets="s2.1 s3.1 ; s1.1" />
+      <link certainty="-941" id="kde_en_GB-11.0.3" xtargets="s3.2 ; " />
+      <link certainty="-256" id="kde_en_GB-11.0.4" xtargets="s3.3 s4.1 ; s2.1" />
+      <link certainty="-1630" id="kde_en_GB-11.0.5" xtargets="s4.2 ; " />
+      <link certainty="-616" id="kde_en_GB-11.0.6" xtargets="s5.1 ; " />
+      <link certainty="-2000" id="kde_en_GB-11.0.7" xtargets="s6.1 ; " />
+      <link certainty="-571" id="kde_en_GB-11.0.8" xtargets="s6.2 ; " />
+      <link certainty="-1311" id="kde_en_GB-11.0.9" xtargets="s7.1 ; " />
+      <link certainty="-2172" id="kde_en_GB-11.0.10" xtargets="s8.1 ; " />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/gopher.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/gopher.docbook.xml.gz">
+      <link certainty="846" id="kde_en_GB-12.0.1" xtargets="s1.1 ; " />
+      <link certainty="502" id="kde_en_GB-12.0.2" xtargets="s2.1 ; " />
+      <link certainty="4397" id="kde_en_GB-12.0.3" xtargets="s2.2 ; " />
+      <link certainty="7496" id="kde_en_GB-12.0.4" xtargets="s3.1 ; " />
+      <link certainty="8499" id="kde_en_GB-12.0.5" xtargets="s3.2 ; " />
+      <link certainty="9664" id="kde_en_GB-12.0.6" xtargets="s3.3 ; " />
+      <link certainty="10250" id="kde_en_GB-12.0.7" xtargets="s3.4 ; " />
+      <link certainty="-199" id="kde_en_GB-12.0.8" xtargets="s3.5 s4.1 ; s1.1" />
+      <link certainty="-939" id="kde_en_GB-12.0.9" xtargets="s4.2 s5.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/gzip.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/gzip.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-13.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="225" id="kde_en_GB-13.0.2" xtargets="s2.1 ; s2.1" />
+      <link certainty="621" id="kde_en_GB-13.0.3" xtargets="s3.1 s3.2 ; s3.1" />
+      <link certainty="846" id="kde_en_GB-13.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="1086" id="kde_en_GB-13.0.5" xtargets="s5.1 s6.1 ; s5.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/help.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/help.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-14.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-381" id="kde_en_GB-14.0.2" xtargets="s2.1 s3.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/http.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/http.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-15.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-664" id="kde_en_GB-15.0.2" xtargets="s2.1 s3.1 ; s2.1" />
+      <link certainty="1236" id="kde_en_GB-15.0.3" xtargets="s3.2 s5.1 ; s3.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/https.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/https.docbook.xml.gz">
+      <link certainty="-20" id="kde_en_GB-16.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="-172" id="kde_en_GB-16.0.2" xtargets="s3.1 s3.2 ; s2.1" />
+      <link certainty="-1572" id="kde_en_GB-16.0.3" xtargets="s4.1 ; " />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/imaps.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/imaps.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-17.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="176" id="kde_en_GB-17.2.1" xtargets="s2.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/info.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/info.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-18.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-723" id="kde_en_GB-18.2.1" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="-1653" id="kde_en_GB-18.3.1" xtargets="s3.1 s3.2 ; s3.1" />
+      <link certainty="125" id="kde_en_GB-18.4.1" xtargets="s4.1 ; s4.1" />
+      <link certainty="696" id="kde_en_GB-18.5.1" xtargets="s5.1 ; s5.1" />
+      <link certainty="20" id="kde_en_GB-18.6.1" xtargets="s6.1 ; s6.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/lan.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/lan.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-19.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-529" id="kde_en_GB-19.0.2" xtargets="s2.1 s3.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/mailto.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/mailto.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-20.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-1071" id="kde_en_GB-20.0.2" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="-450" id="kde_en_GB-20.0.3" xtargets="s2.3 s3.1 ; s2.2" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/man.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/man.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-21.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-1198" id="kde_en_GB-21.2.1" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="0" id="kde_en_GB-21.2.2" xtargets="s3.1 ; s3.1" />
+      <link certainty="455" id="kde_en_GB-21.3.1" xtargets="s4.1 ; s4.1" />
+      <link certainty="0" id="kde_en_GB-21.3.2" xtargets="s5.1 ; s5.1" />
+      <link certainty="500" id="kde_en_GB-21.4.1" xtargets="s6.1 ; s6.1" />
+      <link certainty="872" id="kde_en_GB-21.5.1" xtargets="s7.1 ; s7.1" />
+      <link certainty="342" id="kde_en_GB-21.6.1" xtargets="s8.1 ; s8.1" />
+      <link certainty="-1143" id="kde_en_GB-21.7.1" xtargets="s9.1 s9.2 ; s9.1" />
+      <link certainty="408" id="kde_en_GB-21.8.1" xtargets="s10.1 ; s10.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/news.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/news.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-22.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-581" id="kde_en_GB-22.2.1" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="694" id="kde_en_GB-22.3.1" xtargets="s3.1 ; s3.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/nfs.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/nfs.docbook.xml.gz">
+      <link certainty="813" id="kde_en_GB-23.0.1" xtargets="s1.1 ; " />
+      <link certainty="578" id="kde_en_GB-23.0.2" xtargets="s2.1 ; " />
+      <link certainty="4844" id="kde_en_GB-23.0.3" xtargets="s2.2 ; " />
+      <link certainty="-244" id="kde_en_GB-23.0.4" xtargets="s2.3 s3.1 ; s1.1" />
+      <link certainty="-1000" id="kde_en_GB-23.0.5" xtargets="s3.2 s4.1 ; s2.1" />
+      <link certainty="-533" id="kde_en_GB-23.0.6" xtargets="s4.2 ; " />
+      <link certainty="-1396" id="kde_en_GB-23.0.7" xtargets="s5.1 ; " />
+      <link certainty="-1968" id="kde_en_GB-23.0.8" xtargets="s6.1 ; " />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/nntp.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/nntp.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-24.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="394" id="kde_en_GB-24.2.1" xtargets="s2.1 ; s2.1" />
+      <link certainty="-1074" id="kde_en_GB-24.3.1" xtargets="s3.1 s3.2 ; s3.1" />
+      <link certainty="231" id="kde_en_GB-24.4.1" xtargets="s4.1 ; s4.1" />
+      <link certainty="238" id="kde_en_GB-24.5.1" xtargets="s5.1 ; s5.1" />
+      <link certainty="-1040" id="kde_en_GB-24.6.1" xtargets="s6.1 s6.2 ; s6.1" />
+      <link certainty="276" id="kde_en_GB-24.7.1" xtargets="s7.1 ; s7.1" />
+      <link certainty="-1635" id="kde_en_GB-24.8.1" xtargets="s8.1 s8.2 ; s8.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/pop3.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/pop3.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-25.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="239" id="kde_en_GB-25.2.1" xtargets="s2.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/pop3s.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/pop3s.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-26.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="45" id="kde_en_GB-26.2.1" xtargets="s2.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/rlan.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/rlan.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-27.1.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="303" id="kde_en_GB-27.2.1" xtargets="s2.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/rlogin.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/rlogin.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-28.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="302" id="kde_en_GB-28.0.2" xtargets="s2.1 ; s2.1" />
+      <link certainty="419" id="kde_en_GB-28.0.3" xtargets="s3.1 ; s3.1" />
+      <link certainty="192" id="kde_en_GB-28.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="78" id="kde_en_GB-28.0.5" xtargets="s5.1 ; s5.1" />
+      <link certainty="526" id="kde_en_GB-28.0.6" xtargets="s6.1 s7.1 ; s6.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/smb.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/smb.docbook.xml.gz">
+      <link certainty="477" id="kde_en_GB-29.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="-1966" id="kde_en_GB-29.0.2" xtargets="s4.1 s4.2 ; s2.1" />
+      <link certainty="-1459" id="kde_en_GB-29.0.3" xtargets="s5.1 s5.2 ; s4.1" />
+      <link certainty="-1593" id="kde_en_GB-29.0.4" xtargets="s6.1 s6.2 ; s5.1" />
+      <link certainty="125" id="kde_en_GB-29.0.5" xtargets="s6.3 s7.1 ; s6.1" />
+      <link certainty="-1426" id="kde_en_GB-29.0.6" xtargets="s7.2 s8.1 ; s8.1" />
+      <link certainty="24" id="kde_en_GB-29.0.7" xtargets="s9.1 ; s9.1" />
+      <link certainty="0" id="kde_en_GB-29.0.8" xtargets="s9.2 ; s9.2" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/tar.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/tar.docbook.xml.gz">
+      <link certainty="698" id="kde_en_GB-30.0.1" xtargets="s1.1 s2.1 ; s1.1" />
+      <link certainty="-1464" id="kde_en_GB-30.0.2" xtargets="s2.2 s3.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdebase/kioslave/telnet.docbook.xml.gz"
+             toDoc="uk/docs/kdebase/kioslave/telnet.docbook.xml.gz">
+      <link certainty="0" id="kde_en_GB-31.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-843" id="kde_en_GB-31.0.2" xtargets="s2.1 s3.1 ; s2.1" />
+    </linkGrp>
+    <linkGrp targType="s"
+             fromDoc="en_GB/docs/kdelibs/kspell/index.docbook.xml.gz"
+             toDoc="uk/docs/kdelibs/kspell/index.docbook.xml.gz">
+      <link certainty="62" id="kde_en_GB-32.0.1" xtargets="s1.1 ; s1.1" />
+      <link certainty="-506" id="kde_en_GB-32.0.2" xtargets="s2.1 s2.2 ; s2.1" />
+      <link certainty="70" id="kde_en_GB-32.0.3" xtargets="s3.1 ; s3.1" />
+      <link certainty="378" id="kde_en_GB-32.0.4" xtargets="s4.1 ; s4.1" />
+      <link certainty="171" id="kde_en_GB-32.0.5" xtargets="s4.2 ; s4.2" />
+      <link certainty="160" id="kde_en_GB-32.0.6" xtargets="s5.1 ; s5.1" />
+      <link certainty="496" id="kde_en_GB-32.0.7" xtargets="sspelldlg.1 ; sspelldlg.1 sspelldlg.2" />
+      <link certainty="218" id="kde_en_GB-32.0.8" xtargets="sspelldlg.2 sspelldlg.3 ; s6.1" />
+      <link certainty="243" id="kde_en_GB-32.0.9" xtargets="sspelldlg.4 sspelldlg.5 ; s7.1" />
+      <link certainty="10" id="kde_en_GB-32.0.10" xtargets="sspelldlg.6 ; s8.1" />
+      <link certainty="175" id="kde_en_GB-32.0.11" xtargets="s6.1 ; s9.1" />
+      <link certainty="65" id="kde_en_GB-32.0.12" xtargets="s7.1 s8.1 ; s10.1" />
+      <link certainty="188" id="kde_en_GB-32.0.13" xtargets="s9.1 ; s11.1" />
+      <link certainty="-390" id="kde_en_GB-32.0.14" xtargets="s10.1 s11.1 ; s12.1" />
+      <link certainty="39" id="kde_en_GB-32.0.15" xtargets="s12.1 ; s13.1" />
+      <link certainty="24" id="kde_en_GB-32.0.16" xtargets="s13.1 ; s14.1" />
+      <link certainty="511" id="kde_en_GB-32.0.17" xtargets="s14.1 ; s15.1" />
+      <link certainty="64" id="kde_en_GB-32.0.18" xtargets="s15.1 ; s16.1" />
+      <link certainty="36" id="kde_en_GB-32.0.19" xtargets="s16.1 ; s17.1" />
+      <link certainty="230" id="kde_en_GB-32.0.20" xtargets="s17.1 ; s18.1" />
+      <link certainty="28" id="kde_en_GB-32.0.21" xtargets="s18.1 ; s19.1" />
+      <link certainty="253" id="kde_en_GB-32.0.22" xtargets="s19.1 ; s20.1" />
+      <link certainty="6" id="kde_en_GB-32.0.23" xtargets="s20.1 ; s21.1" />
+      <link certainty="2120" id="kde_en_GB-32.0.24" xtargets="s21.1 ; s22.1 s23.1" />
+      <link certainty="619" id="kde_en_GB-32.0.25" xtargets="s22.1 s22.2 ; s24.1 s25.1" />
+      <link certainty="959" id="kde_en_GB-32.0.26" xtargets="s22.3 s22.4 ; s25.2" />
+      <link certainty="100" id="kde_en_GB-32.0.27" xtargets="s23.1 ; s26.1" />
+      <link certainty="60" id="kde_en_GB-32.0.28" xtargets="s24.1 s24.2 ; s27.1 s28.1" />
+      <link certainty="482" id="kde_en_GB-32.0.29" xtargets="s25.1 s26.1 ; s29.1" />
+      <link certainty="35" id="kde_en_GB-32.0.30" xtargets="s27.1 s28.1 ; s30.1" />
+      <link certainty="137" id="kde_en_GB-32.0.31" xtargets="s29.1 ; s31.1" />
+      <link certainty="84" id="kde_en_GB-32.0.32" xtargets="s30.1 ; s32.1" />
+    </linkGrp>
+  </linkList>
+</cesAlign>
