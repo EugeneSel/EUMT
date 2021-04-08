@@ -1,2 +1,9 @@
 __pycache__
 .ipynb_checkpoints
+DS/*
+data/*
+.vscode
+*.txt
+*.tsv
+*.csv
+*.bin
