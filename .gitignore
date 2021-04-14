@@ -7,3 +7,4 @@ data/*
 *.tsv
 *.csv
 *.bin
+models/fastTextTransformer/
