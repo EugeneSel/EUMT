@@ -6,11 +6,11 @@ def translate_file(filepath, save_filepath, source="en", target="uk"):
         data = f.readlines()
     data = [line.strip() for line in data]
 
-    translator = Translator(service_urls=['translate.google.com'])
+    translator = Translator()
 
-    translations = [translator.translate(doc, src=source, dest=target) for doc in data]
+    translations = translator.translate(data, src=source, dest=target)
     with open(save_filepath, "w") as f:
-        for line in translations:
+        for line in translations.text:
             f.write(line + "\n")
 
 
