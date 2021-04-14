@@ -4,7 +4,7 @@ import json
 import pyonmttok
 
 from utils.process_text import init_tokenizer
-# from models.fastTextEmbeddings import load_embeddings
+from models.fastTextEmbeddings import load_embeddings
 
 
 SOURCE = "en"
@@ -68,24 +68,14 @@ def serve():
     with open(TOKEN_CONFIG, "r") as f:
         tokenizer_config = json.load(f)
 
-    # with tf.device('/CPU:0'):
     transformer_en = EUMT(EXPORT_EN_PATH, tokenizer_config)
 
-    # while True:
-    #     text = input("Source: ")
-    #     output = transformer_en.translate([text])
-    #     print("Target: %s" % output[0])
-    #     print("")
-
-    # return transformer_en
-
-    # with tf.device('/CPU:0'):
-    
-    # translation = transformer_en.translate(["i"])
-
-    return transformer_en
+    while True:
+        text = input("Source: ")
+        output = transformer_en.translate([text])
+        print("Target: %s" % output[0])
+        print("")
 
 
 if __name__ == "__main__":
-    # with tf.device('/CPU:0'):
     translation = serve()

@@ -71,3 +71,40 @@ def load_embeddings(filename, language="", reduced_dim=None):
         util.reduce_model(model, reduced_dim)
 
     return model
+
+
+def get_more_embeddings(embedding_model, vocab_path, embed_path, data):
+    with open(vocab_path, "r") as f:
+        vocab_tokens = f.readlines()
+    vocab_tokens = [token.strip() for token in vocab_tokens]
+
+    f_vocab = open(vocab_path, "a")
+    f_embed = open(embed_path, "a")
+
+    for line in data:
+        for token in line:
+            if token not in vocab_tokens and token.strip():
+                f_embed.write(" ".join([token] + embedding_model.get_word_vector(token).astype('str').tolist()) + "\n")
+                f_vocab.write(token + "\n")
+                vocab_tokens.append(token)
+
+    f_vocab.close()
+    f_embed.close()
+
+
+def save_embeddings(embedding_model, save_vocab_path, save_embed_path, mode="w"):
+    f_vocab = open(save_vocab_path, mode)
+    f_embed = open(save_embed_path, mode)
+
+    vocab = embedding_model.get_words()
+    embed_matrix = embedding_model.get_output_matrix()
+    print(embed_matrix.shape)
+
+    f_embed.write(f"{len(vocab)} {embed_matrix.shape[-1]}\n")
+    for word, embed_vector in zip(vocab, embed_matrix):
+        if word.strip():
+            f_embed.write(" ".join([word] + embed_vector.astype('str').tolist()) + "\n")
+            f_vocab.write(word + "\n")
+
+    f_vocab.close()
+    f_embed.close()

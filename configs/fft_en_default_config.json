@@ -28,9 +28,10 @@
         "tflite_output_size": 100
     },
     "train": {
+        "batch_size": 4096,
         "save_summary_steps": 100,
-        "effective_batch_size": null,
-        "max_step": 500000,
+        "effective_batch_size": 1,
+        "max_step": 1000000,
         "single_pass": false,
         "keep_checkpoint_max": 1
     },
