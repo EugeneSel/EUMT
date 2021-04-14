@@ -1,0 +1,43 @@
+{
+    "model_dir": "models/fastTextTransformer/test_en/",
+    "data": {
+        "source_embedding": {
+            "path": "data/embed_en_200.txt",
+            "with_header": true,
+            "case_insensitive": true,
+            "trainable": false
+        },
+        "target_embedding": {
+            "path": "data/embed_uk_200.txt",
+            "with_header": true,
+            "case_insensitive": true,
+            "trainable": false
+        },
+        "source_vocabulary": "data/vocab_en_200.txt",
+        "target_vocabulary": "data/vocab_uk_200.txt",
+        "train_features_file": "data/en_translate_train.txt",
+        "train_labels_file": "data/uk_translate_train.txt",
+        "eval_features_file": "data/tatoeba_en_test.txt",
+        "eval_labels_file": "data/tatoeba_uk_test.txt",
+        "sequence_controls": {
+            "start": true,
+            "end": true
+        },
+        "save_checkpoints_steps": 5000,
+        "maximum_decoding_length": 100,
+        "tflite_output_size": 100
+    },
+    "train": {
+        "batch_size": 4096,
+        "save_summary_steps": 100,
+        "effective_batch_size": 1,
+        "max_step": 1000000,
+        "single_pass": false,
+        "keep_checkpoint_max": 1
+    },
+    "eval": {
+        "steps": 5000,
+        "scorers": "bleu",
+        "export_on_best": "bleu"
+    }
+}
