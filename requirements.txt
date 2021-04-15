@@ -1,6 +1,7 @@
 voila
 pillow
 packaging
+ipython
 ipywidgets
 tensorflow
 OpenNMT-tf
