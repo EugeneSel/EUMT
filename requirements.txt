@@ -1,0 +1,6 @@
+voila
+pillow
+packaging
+ipywidgets
+tensorflow
+OpenNMT-tf
