@@ -9,4 +9,3 @@ models/fastTextEmbeddings/
 *.tsv
 *.csv
 *.bin
-models/fastTextTransformer/
