@@ -1,0 +1,12 @@
+models_serve/tatoeba_en/export/55000 filter=lfs diff=lfs merge=lfs -text
+models_serve/tatoeba_uk/export/110000 filter=lfs diff=lfs merge=lfs -text
+models_serve/QED_en/export/255000 filter=lfs diff=lfs merge=lfs -text
+models_serve/QED_uk/export/30000 filter=lfs diff=lfs merge=lfs -text
+models_serve/Wiki_XLEnt_en/export/500000 filter=lfs diff=lfs merge=lfs -text
+models_serve/Wiki_XLEnt_uk/export/485000 filter=lfs diff=lfs merge=lfs -text
+models_serve/QED_en/export/255000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models_serve/QED_uk/export/30000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models_serve/Wiki_XLEnt_en/export/500000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models_serve/Wiki_XLEnt_uk/export/485000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models_serve/tatoeba_uk/export/110000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models_serve/tatoeba_en/export/55000/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
