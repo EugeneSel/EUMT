@@ -8,4 +8,3 @@ models/fastTextEmbeddings/
 *.tsv
 *.csv
 *.bin
-variables.data-00000-of-00001
