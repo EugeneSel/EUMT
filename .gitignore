@@ -5,7 +5,7 @@ data/*
 models/fastTextTransformer/
 models/fastTextEmbeddings/
 .vscode
-*.txt
 *.tsv
 *.csv
 *.bin
+variables.data-00000-of-00001
