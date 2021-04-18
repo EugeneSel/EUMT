@@ -1,4 +1,0 @@
-wget -q -O models_serve/tatoeba_en/export/55000/variables/variables.data-00000-of-00001 "https://drive.google.com/uc?export=download&id=1kjqetwiFB-PJEI31LXQyE_N5MxstBhug"
-wget -q -O models_serve/tatoeba_uk/export/110000/variables/variables.data-00000-of-00001 "https://drive.google.com/uc?export=download&id=1bbxvNTjoQ_yHeATBCKviGaQzGzEPX8kt"
-wget -q -O models_serve/Wiki_XLEnt_en/export/500000/variables/variables.data-00000-of-00001 "https://drive.google.com/uc?export=download&id=1qzEumy2mr3444xT0heu4pJsG1zEne7iT"
-wget -q -O models_serve/Wiki_XLEnt_uk/export/485000/variables/variables.data-00000-of-00001 "https://drive.google.com/uc?export=download&id=1YTWV5_ciOGg8FbD2p2GpM4Eh9dhxt2vl"
