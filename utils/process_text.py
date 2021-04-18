@@ -35,6 +35,7 @@ def split_data(data_source, data_target, train_frac=.9995, random_seed=10):
 def init_tokenizer(token_config):
     from opennmt.tokenizers.opennmt_tokenizer import OpenNMTTokenizer
 
+
     return OpenNMTTokenizer(**token_config)
 
 
@@ -59,5 +60,4 @@ def tokenize_multiple_datasets(datafiles, tokenizer):
 
         data_merged.extend(data_tokenized)
 
-        # save_tokenized_data(data_tokenized, save_filepath=save_filepath, mode="a")
     return data_merged
