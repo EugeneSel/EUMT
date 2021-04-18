@@ -1,6 +1,5 @@
 __pycache__
 .ipynb_checkpoints
-DS/*
 data/*
 models/fastTextTransformer/
 models/fastTextEmbeddings/
