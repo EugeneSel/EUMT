@@ -1,12 +1,12 @@
 import json
 
-from utils.process_text import init_tokenizer, save_tokenized_data, \
-    tokenize_multiple_datasets, clean_empty_sentences, split_data
-from models.fastTextEmbeddings import train_embeddings, get_more_embeddings, save_embeddings, load_embeddings
-from models.fastTextTransformer import init_model_and_runner
-
 import tensorflow as tf
 import fasttext
+
+from utils.process_text import init_tokenizer, save_tokenized_data, \
+    tokenize_multiple_datasets, clean_empty_sentences, split_data
+from models.fastTextEmbeddings import train_embeddings, get_more_embeddings, save_embeddings
+from models.fastTextTransformer import init_model_and_runner
 
 
 DATASET_NAME = "Wiki_XLEnt"
@@ -20,24 +20,18 @@ D = 200
 
 
 def main(source="en", target="uk", dataset_name=DATASET_NAME):
-    # data_source_paths = [
-    #     f"data/WikiMatrix/WikiMatrix.en-uk.{source}",
-    #     f"data/XLEnt/XLEnt.en-uk.{source}"
-    # ]
-
-    # data_target_paths = [
-    #     f"data/WikiMatrix/WikiMatrix.en-uk.{target}",
-    #     f"data/XLEnt/XLEnt.en-uk.{target}"
-    # ]
-
     data_source_paths = [
-        # f"data/QED/QED.en-uk.{source}",
-        f"data/OpenSubtitles/{source}.txt"
+        f"data/WikiMatrix/WikiMatrix.en-uk.{source}",
+        f"data/XLEnt/XLEnt.en-uk.{source}",
+        f"data/QED/QED.en-uk.{source}",
+        f"data/tatoeba_{source}.txt"
     ]
 
     data_target_paths = [
-        # f"data/QED/QED.en-uk.{target}",
-        f"data/OpenSubtitles/{target}.txt"
+        f"data/WikiMatrix/WikiMatrix.en-uk.{target}",
+        f"data/XLEnt/XLEnt.en-uk.{target}",
+        f"data/QED/QED.en-uk.{target}",
+        f"data/tatoeba_{target}.txt"
     ]
 
     # Initialize tokenizer:
