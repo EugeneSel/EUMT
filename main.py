@@ -1,6 +1,5 @@
 import json
 
-import tensorflow as tf
 import fasttext
 
 from utils.process_text import init_tokenizer, save_tokenized_data, \
