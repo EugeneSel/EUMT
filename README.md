@@ -1,6 +1,6 @@
 # EUMT
 
-English-Ukrainian biderectional neural machine translator, based on [fastText](https://fasttext.cc/docs/en/support.html) word embeddings (*sisg-* model [1]) and default Transformer architecture [2] of the [OpenNMT framework](https://opennmt.net/).
+English-Ukrainian bidirectional neural machine translator, based on [fastText](https://fasttext.cc/docs/en/support.html) word embeddings (*sisg-* model [1]) and default Transformer architecture [2] of the [OpenNMT framework](https://opennmt.net/).
 
 The following [OPUS datasets](https://opus.nlpl.eu/) [3] were used for training:
 
