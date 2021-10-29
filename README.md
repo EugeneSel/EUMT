@@ -13,6 +13,9 @@ The following [OPUS datasets](https://opus.nlpl.eu/) [3] were used for training:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EugeneSel/EUMT/HEAD?urlpath=%2Fvoila%2Frender%2Fweb_app.ipynb)
 
+
+**Check out [my article](http://scinews.kpi.ua/article/view/236939), related to this project.**
+
 ## References
 
 1. Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). [Enriching word vectors with subword information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051?source=post_page---------------------------). Transactions of the Association for Computational Linguistics, 5, 135-146.
