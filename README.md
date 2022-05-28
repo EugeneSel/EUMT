@@ -11,8 +11,7 @@ The following [OPUS datasets](https://opus.nlpl.eu/) [3] were used for training:
 
 > Launch translator:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EugeneSel/EUMT/HEAD?urlpath=%2Fvoila%2Frender%2Fweb_app.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EugeneSel/EUMT/master?urlpath=%2Fvoila%2Frender%2Fweb_app.ipynb)
 
 **Check out [my article](http://scinews.kpi.ua/article/view/236939), related to this project.**
 
