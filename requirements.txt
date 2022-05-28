@@ -1,6 +1,7 @@
-nltk==3.4.5
-voila==0.2.9
 ipython==7.14.0
 ipywidgets==7.5.1
-tensorflow==2.4.1
+nltk==3.4.5
 OpenNMT-tf==2.20.1
+protobuf==3.19.0
+tensorflow==2.4.1
+voila==0.2.9
